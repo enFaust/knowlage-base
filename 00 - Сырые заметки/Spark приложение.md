@@ -23,5 +23,6 @@ Spark приложение состоит из драйвера (driver) и на
 [[Spark Session]]
 [[Partitions]]
 [[Transformations]]
-
-
+[[Lazy Evaluation]]
+[[Action]]
+[[Spark UI]]
