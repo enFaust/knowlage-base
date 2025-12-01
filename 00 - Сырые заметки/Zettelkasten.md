@@ -1,0 +1,5 @@
+
+[[Принципы Zettelkasten]]
+
+
+#Zettelksten 

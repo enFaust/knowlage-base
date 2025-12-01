@@ -8,31 +8,161 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88a9c2eb7c43646c",
+            "id": "c7d873da8b95c1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Принципы Zettelkasten.md",
+                "file": "00 - Сырые заметки/Apache Spark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Принципы Zettelkasten"
+              "title": "Apache Spark"
             }
           },
           {
-            "id": "5d01c4a4f4e53e9a",
+            "id": "95cbad2c0aab976f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Spark приложение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark приложение"
+            }
+          },
+          {
+            "id": "fd3d4fa168ce7921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Apache Spark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apache Spark"
+            }
+          },
+          {
+            "id": "32add8a4803cc13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Spark приложение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark приложение"
+            }
+          },
+          {
+            "id": "5558c5b64639d4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Apache Spark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apache Spark"
+            }
+          },
+          {
+            "id": "12decf1ecc99f8fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Spark приложение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark приложение"
+            }
+          },
+          {
+            "id": "618d846f80fd504d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Spark приложение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark приложение"
+            }
+          },
+          {
+            "id": "1afb59321f06ea7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Narrow dependencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Narrow dependencies"
+            }
+          },
+          {
+            "id": "4f2141edabb415e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Wide dependencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wide dependencies"
+            }
+          },
+          {
+            "id": "e273616eed547776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Wide dependencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wide dependencies"
+            }
+          },
+          {
+            "id": "030ac798ab4debdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Сырые заметки/Narrow dependencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Narrow dependencies"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,6 +301,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2b109733477c571d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 4
@@ -188,17 +328,88 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5d01c4a4f4e53e9a",
+  "floating": {
+    "id": "6ab37bcfcc9ea046",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dec78b8d65c5e66c",
+        "type": "window",
+        "children": [
+          {
+            "id": "e70f5819d0164a9f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ab4aba194b26f932",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "04 - Источники/spark-the-definitive-guide.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "spark-the-definitive-guide"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1512,
+        "y": -1011,
+        "width": 1080,
+        "height": 1889,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0b8c6b80b98e5085",
   "lastOpenFiles": [
+    "00 - Сырые заметки/Transformations.md",
+    "00 - Сырые заметки/Narrow dependencies.md",
+    "00 - Сырые заметки/Wide dependencies.md",
+    "00 - Сырые заметки/Wide dependencies.png",
+    "04 - Источники/spark-the-definitive-guide.pdf",
+    "00 - Сырые заметки/Dataset.md",
+    "00 - Сырые заметки/Narrow Transformations.png",
+    "00 - Сырые заметки/Неструктурированные API.md",
+    "00 - Сырые заметки/Immutable Data Structure.md",
+    "00 - Сырые заметки/Spark приложение.md",
+    "00 - Сырые заметки/Partitions.md",
+    "00 - Сырые заметки/RDD.md",
+    "00 - Сырые заметки/Spark API.md",
+    "00 - Сырые заметки/DataFrame.md",
+    "00 - Сырые заметки/Cтруктурированные API.md",
+    "00 - Сырые заметки/Проблема больших данных.md",
+    "00 - Сырые заметки/Spark Session.md",
+    "Менеджеры кластеровёчы.md",
+    "00 - Сырые заметки/Apache Spark.md",
+    "00 - Сырые заметки/The relationship between the SparkSession and Spark’s Language API.md",
+    "00 - Сырые заметки/Spark режимы.md",
+    "00 - Сырые заметки/The architecture of a Spark Application.md",
+    "00 - Сырые заметки/Библиотеки Spark.md",
+    "00 - Сырые заметки/Менеджеры кластеров.md",
+    "00 - Сырые заметки/Spark’s toolkit.md",
+    "00 - Сырые заметки/Structured Streaming.md",
+    "00 - Сырые заметки/GraphX.md",
+    "00 - Сырые заметки/Spark Streaming.md",
     "Untitled.canvas",
-    "2025-12-01.md",
-    "Untitled 1.base",
     "Untitled.base",
-    "Атомарность.md",
-    "Автономность.md",
-    "Принципы Zettelkasten.md"
+    "Untitled 1.base",
+    "05 - Заметки",
+    "04 - Источники",
+    "02 - Индексы",
+    "01 - Метки",
+    "00 - Сырые заметки",
+    "03 - Шаблоны/Templater",
+    "03 - Шаблоны"
   ]
 }
