@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4be062e365b3b87a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structured Streaming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Structured Streaming"
-            }
-          },
-          {
             "id": "ded76d85a68d7393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apache Spark.md",
+                "file": "Spark Join.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Spark"
+              "title": "Spark Join"
+            }
+          },
+          {
+            "id": "0137c761a0b106e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark Join.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark Join"
+            }
+          },
+          {
+            "id": "91d7d92525102c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark Join.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark Join"
             }
           }
         ]
@@ -48,19 +62,6 @@
         "id": "ce142a520f1a3876",
         "type": "tabs",
         "children": [
-          {
-            "id": "2657f325928aec80",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "b91a5fd4062b4741",
             "type": "leaf",
@@ -88,11 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "955caaf12cc90bf5",
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structured Streaming.md",
+                "file": "Spark Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Structured Streaming"
+              "title": "Backlinks for Spark Join"
             }
           },
           {
@@ -127,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structured Streaming.md",
+                "file": "Spark Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Structured Streaming"
+              "title": "Outgoing links from Spark Join"
             }
           },
           {
@@ -239,25 +241,31 @@
         "y": 34,
         "width": 1080,
         "height": 897,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "0b8c6b80b98e5085",
+  "active": "ded76d85a68d7393",
   "lastOpenFiles": [
+    "Sources/spark-the-definitive-guide.pdf",
+    "Spark Join.md",
     "Apache Spark.md",
+    "Broadcast Nested Loop Join.md",
+    "Sort Merge Join.md",
+    "Cartesian Join.md",
+    "Broadcast Hash Join.md",
+    "_main.md",
+    "Shuffle Hash Join.md",
+    "Structured Streaming.md",
     "Cтруктурированные API.md",
     "spark-submit.md",
-    "Structured Streaming.md",
     "Spark API.md",
-    "_main.md",
     "высокоуровневый API.md",
     "Неструктурированные API.md",
     "RDD.md",
     "Dataset.md",
     "DataFrame.md",
-    "Sources/spark-the-definitive-guide.pdf",
     "Spark приложение.md",
     "Менеджеры кластеров.md",
     "Библиотеки Spark.md",
@@ -266,15 +274,8 @@
     "Spark UI.md",
     "predicate pushdown.md",
     "Narrow dependencies.md",
-    "Wide dependencies.md",
-    "Transformations.md",
     "Wide dependencies.png",
     "Narrow Transformations.png",
-    "Immutable Data Structure.md",
-    "Partitions.md",
-    "Проблема больших данных.md",
-    "Spark Session.md",
-    "Менеджеры кластеровёчы.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
