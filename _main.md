@@ -1,2 +1,4 @@
 [[Zettelkasten]]
 [[Apache Spark]]
+
+[[Flashcards]]

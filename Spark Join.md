@@ -15,4 +15,4 @@
 - Декартов джойн ([[Cartesian Join]])
 - Широковещательный джойн вложенного цикла ([[Broadcast Nested Loop Join]])
 
-#Spark #Dataengineering 
+#Spark #Dataengineering  #review

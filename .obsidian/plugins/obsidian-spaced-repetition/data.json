@@ -22,7 +22,7 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#Spark"
+      "#review"
     ],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"

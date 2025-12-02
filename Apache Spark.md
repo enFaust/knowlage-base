@@ -16,5 +16,4 @@ Spark ограничивает свою область в роли вычисл�
 [[spark-submit]]
 [[Spark Join]]
 
-#Spark #Dataengineering 
-	
+#Spark #Dataengineering #review
