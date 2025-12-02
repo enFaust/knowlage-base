@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ded76d85a68d7393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Narrow dependencies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Narrow dependencies"
-            }
-          },
-          {
-            "id": "f327184ff307df10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shuffle Hash Join.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shuffle Hash Join"
-            }
-          },
-          {
             "id": "2b30107f0a7ff8ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Join Type.md",
+                "file": "Apache Spark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Join Type"
-            }
-          },
-          {
-            "id": "0137c761a0b106e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spark Join.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spark Join"
+              "title": "Apache Spark"
             }
           },
           {
@@ -69,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spark Join.md",
+                "file": "Принципы Zettelkasten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spark Join"
+              "title": "Принципы Zettelkasten"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +55,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wide",
-                "matchingCase": false,
+                "query": "tag:#excalidraw",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -137,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrow dependencies.md",
+                "file": "Принципы Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narrow dependencies"
+              "title": "Backlinks for Принципы Zettelkasten"
             }
           },
           {
@@ -156,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrow dependencies.md",
+                "file": "Принципы Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Narrow dependencies"
+              "title": "Outgoing links from Принципы Zettelkasten"
             }
           },
           {
@@ -273,14 +232,23 @@
       }
     ]
   },
-  "active": "ded76d85a68d7393",
+  "active": "ff56541ffc51bf34",
   "lastOpenFiles": [
-    "Wide dependencies.md",
-    "Shuffle Hash Join.md",
-    "Sources/spark-the-definitive-guide.pdf",
+    "Zettelkasten.md",
+    "Автономность.md",
+    "Атомарность.md",
     "Spark Join.md",
-    "Broadcast Hash Join.md",
+    "Untitled 2.canvas",
+    "Excalidraw/Drawing 2025-12-02 19.00.07.excalidraw.md",
+    "Apache Spark.md",
+    "Excalidraw",
     "Join Type.md",
+    "Untitled 1.canvas",
+    "Shuffle Hash Join.md",
+    "Narrow dependencies.md",
+    "Wide dependencies.md",
+    "Sources/spark-the-definitive-guide.pdf",
+    "Broadcast Hash Join.md",
     "Pasted image 20251202114111.png",
     "Sort Merge Join.md",
     "Pasted image 20251202112832.png",
@@ -289,7 +257,6 @@
     "Pasted image 20251202111925.png",
     "Pasted image 20251202111914.png",
     "Pasted image 20251202111755.png",
-    "Apache Spark.md",
     "Broadcast Nested Loop Join.md",
     "Cartesian Join.md",
     "_main.md",
@@ -304,11 +271,6 @@
     "DataFrame.md",
     "Spark приложение.md",
     "Менеджеры кластеров.md",
-    "Библиотеки Spark.md",
-    "Action.md",
-    "Lazy Evaluation.md",
-    "Spark UI.md",
-    "predicate pushdown.md",
     "Wide dependencies.png",
     "Narrow Transformations.png",
     "Untitled.canvas",
@@ -319,7 +281,6 @@
     "02 - Индексы",
     "01 - Метки",
     "00 - Сырые заметки",
-    "Templates/Templater",
-    "Templates"
+    "Templates/Templater"
   ]
 }

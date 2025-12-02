@@ -2,4 +2,4 @@
 [[Принципы Zettelkasten]]
 
 
-#Zettelksten 
+#Zettelkasten

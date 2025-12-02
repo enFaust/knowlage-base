@@ -22,13 +22,13 @@
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review"
+      "#Spark"
     ],
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md"
     ],
-    "openRandomNote": false,
-    "autoNextNote": false,
+    "openRandomNote": true,
+    "autoNextNote": true,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
     "showRibbonIcon": true,
