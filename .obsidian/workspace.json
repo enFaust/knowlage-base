@@ -13,26 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_main.md",
+                "file": "Apache Airflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_main"
+              "title": "Apache Airflow"
             }
           },
           {
-            "id": "ca97c3352bd5d538",
+            "id": "cd5d551fe6b492b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apache Spark.md",
+                "file": "DAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Spark"
+              "title": "DAG"
+            }
+          },
+          {
+            "id": "9000ca3e4e60823e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Планировщик Airflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Планировщик Airflow"
+            }
+          },
+          {
+            "id": "a5f8309e81d626c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Веб-сервер Airflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Веб-сервер Airflow"
+            }
+          },
+          {
+            "id": "6cb408413b85a206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workers"
             }
           }
         ],
@@ -55,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Spark",
+                "query": "data engineering",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +118,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apache Spark.md",
+                "file": "DAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Apache Spark"
+              "title": "Backlinks for DAG"
             }
           },
           {
@@ -116,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apache Spark.md",
+                "file": "DAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Apache Spark"
+              "title": "Outgoing links from DAG"
             }
           },
           {
@@ -145,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apache Spark.md",
+                "file": "DAG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Apache Spark"
+              "title": "Outline of DAG"
             }
           },
           {
@@ -233,14 +274,23 @@
       }
     ]
   },
-  "active": "ca97c3352bd5d538",
+  "active": "0b8c6b80b98e5085",
   "lastOpenFiles": [
+    "DAG.md",
+    "Apache Airflow.md",
+    "Планировщик Airflow.md",
+    "Веб-сервер Airflow.md",
+    "Workers.md",
+    "_main.md",
+    "Apache Spark.md",
+    "2025-12-02.md",
+    "AS-01.md",
+    "Templates/Spark template.md",
+    "Spark’s toolkit.md",
+    "Untitled.md",
     "Flashcards.md",
     "3000_Essential_English_Words_with_examples_sound_and_images.apkg",
-    "_main.md",
     "Untitled 3.canvas",
-    "Apache Spark.md",
-    "Spark’s toolkit.md",
     "Spark режимы.md",
     "Spark Join.md",
     "Принципы Zettelkasten.md",
@@ -265,14 +315,6 @@
     "Pasted image 20251202111925.png",
     "Pasted image 20251202111914.png",
     "Pasted image 20251202111755.png",
-    "Broadcast Nested Loop Join.md",
-    "Cartesian Join.md",
-    "Structured Streaming.md",
-    "Cтруктурированные API.md",
-    "spark-submit.md",
-    "Spark API.md",
-    "высокоуровневый API.md",
-    "Неструктурированные API.md",
     "Wide dependencies.png",
     "Narrow Transformations.png",
     "Untitled.canvas",
