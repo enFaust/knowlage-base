@@ -13,26 +13,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apache Airflow.md",
+                "file": "_main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Airflow"
+              "title": "_main"
             }
           },
           {
-            "id": "cd5d551fe6b492b1",
+            "id": "a3dd23d0c24fb47e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAG.md",
+                "file": "_main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAG"
+              "title": "_main"
+            }
+          },
+          {
+            "id": "934049e867da77fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Study"
+            }
+          },
+          {
+            "id": "f44e7e02354ab68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Engineering"
+            }
+          },
+          {
+            "id": "6715768d443adf51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark режимы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark режимы"
+            }
+          },
+          {
+            "id": "6f32ed969fc1b5ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change Data Capture (CDC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Change Data Capture (CDC)"
+            }
+          },
+          {
+            "id": "0586b20e75b02bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English"
+            }
+          },
+          {
+            "id": "8243b5dc944d4796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buisenes English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buisenes English"
+            }
+          },
+          {
+            "id": "c5cdfdcc3d8a4642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[B1] [Unit 4] [Grammar] Comparative degrees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "[B1] [Unit 4] [Grammar] Comparative degrees"
             }
           },
           {
@@ -78,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +216,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAG.md",
+                "file": "Spark режимы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +247,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DAG"
+              "title": "Backlinks for Spark режимы"
             }
           },
           {
@@ -157,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAG.md",
+                "file": "Spark режимы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DAG"
+              "title": "Outgoing links from Spark режимы"
             }
           },
           {
@@ -186,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAG.md",
+                "file": "Spark режимы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DAG"
+              "title": "Outline of Spark режимы"
             }
           },
           {
@@ -276,14 +375,35 @@
   },
   "active": "0b8c6b80b98e5085",
   "lastOpenFiles": [
-    "DAG.md",
-    "Apache Airflow.md",
+    "Apache Spark.md",
+    "Spark режимы.md",
+    "Spark Join.md",
+    "Noisy Neighbor.md",
+    "Data Engineering.md",
+    "Change Data Capture (CDC).md",
+    "Study.md",
+    "_main.md",
+    "2025-12-02.md",
+    "2025-12-04.md",
+    "[B1] [Unit 4] [Grammar] Comparative degrees.md",
+    "Pasted image 20251204125407.png",
+    "Buisenes English.md",
     "Планировщик Airflow.md",
+    "Pasted image 20251204122811.md",
+    "Pasted image 20251204123015.png",
+    "Pasted image 20251204123011.png",
+    "Pasted image 20251204122811.png",
+    "Pasted image 20251204121213.png",
+    "Pasted image 20251204121155.png",
+    "Pasted image 20251204115706.png",
+    "Pasted image 20251204114919.png",
+    "Pasted image 20251204114858.png",
+    "Pasted image 20251204114107.png",
+    "English.md",
+    "Apache Airflow.md",
+    "DAG.md",
     "Веб-сервер Airflow.md",
     "Workers.md",
-    "_main.md",
-    "Apache Spark.md",
-    "2025-12-02.md",
     "AS-01.md",
     "Templates/Spark template.md",
     "Spark’s toolkit.md",
@@ -291,32 +411,12 @@
     "Flashcards.md",
     "3000_Essential_English_Words_with_examples_sound_and_images.apkg",
     "Untitled 3.canvas",
-    "Spark режимы.md",
-    "Spark Join.md",
     "Принципы Zettelkasten.md",
     "Zettelkasten.md",
-    "Автономность.md",
-    "Атомарность.md",
     "Untitled 2.canvas",
-    "Excalidraw/Drawing 2025-12-02 19.00.07.excalidraw.md",
     "Excalidraw",
-    "Join Type.md",
     "Untitled 1.canvas",
-    "Shuffle Hash Join.md",
-    "Narrow dependencies.md",
-    "Wide dependencies.md",
     "Sources/spark-the-definitive-guide.pdf",
-    "Broadcast Hash Join.md",
-    "Pasted image 20251202114111.png",
-    "Sort Merge Join.md",
-    "Pasted image 20251202112832.png",
-    "Pasted image 20251202112316.png",
-    "Pasted image 20251202111933.png",
-    "Pasted image 20251202111925.png",
-    "Pasted image 20251202111914.png",
-    "Pasted image 20251202111755.png",
-    "Wide dependencies.png",
-    "Narrow Transformations.png",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
