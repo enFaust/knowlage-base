@@ -1,2 +1,5 @@
 
 [[Study]]
+[[Daily]]
+
+[[Math]]

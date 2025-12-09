@@ -64,119 +64,231 @@
             }
           },
           {
-            "id": "6715768d443adf51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spark режимы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spark режимы"
-            }
-          },
-          {
             "id": "6f32ed969fc1b5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Change Data Capture (CDC).md",
+                "file": "_main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change Data Capture (CDC)"
+              "title": "_main"
             }
           },
           {
-            "id": "0586b20e75b02bf3",
+            "id": "c4453e75184cc230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English.md",
+                "file": "Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "Daily"
             }
           },
           {
-            "id": "8243b5dc944d4796",
+            "id": "88116a4cacd81452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buisenes English.md",
+                "file": "_main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buisenes English"
+              "title": "_main"
             }
           },
           {
-            "id": "c5cdfdcc3d8a4642",
+            "id": "e93f12f5ac944a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[B1] [Unit 4] [Grammar] Comparative degrees.md",
+                "file": "Math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[B1] [Unit 4] [Grammar] Comparative degrees"
+              "title": "Math"
             }
           },
           {
-            "id": "9000ca3e4e60823e",
+            "id": "4406f770d6162b2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Планировщик Airflow.md",
+                "file": "Числа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Планировщик Airflow"
+              "title": "Числа"
             }
           },
           {
-            "id": "a5f8309e81d626c5",
+            "id": "f98dd137f36cd08e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Веб-сервер Airflow.md",
+                "file": "Простые числа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Веб-сервер Airflow"
+              "title": "Простые числа"
             }
           },
           {
-            "id": "6cb408413b85a206",
+            "id": "372fcb40dc21b7fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workers.md",
+                "file": "Взаимно простые числа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workers"
+              "title": "Взаимно простые числа"
+            }
+          },
+          {
+            "id": "65675cb8a7cf2307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_main"
+            }
+          },
+          {
+            "id": "3e511ab59df00040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Math"
+            }
+          },
+          {
+            "id": "d09093a4f5e2c20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подготовка к ЦТ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Подготовка к ЦТ"
+            }
+          },
+          {
+            "id": "fb4dbe6afef72009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Math"
+            }
+          },
+          {
+            "id": "945730f3fff5560f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тригонометрия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тригонометрия"
+            }
+          },
+          {
+            "id": "9b4bec8f0a03e28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отношения сторон в прямоугольных треугольниках.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отношения сторон в прямоугольных треугольниках"
+            }
+          },
+          {
+            "id": "05ba5ea9fe0cdd8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Степени и корни.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Степени и корни"
+            }
+          },
+          {
+            "id": "a59527a444d333c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Степень с натуральным показателем.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Степень с натуральным показателем"
+            }
+          },
+          {
+            "id": "26b194aa93654b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Множества чисел.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Множества чисел"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -195,7 +307,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data engineering",
+                "query": "целы",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,7 +333,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "955caaf12cc90bf5",
@@ -237,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spark режимы.md",
+                "file": "Отношения сторон в прямоугольных треугольниках.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +360,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spark режимы"
+              "title": "Backlinks for Отношения сторон в прямоугольных треугольниках"
             }
           },
           {
@@ -256,12 +369,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spark режимы.md",
+                "file": "Отношения сторон в прямоугольных треугольниках.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spark режимы"
+              "title": "Outgoing links from Отношения сторон в прямоугольных треугольниках"
             }
           },
           {
@@ -285,13 +398,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spark режимы.md",
+                "file": "Отношения сторон в прямоугольных треугольниках.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spark режимы"
+              "title": "Outline of Отношения сторон в прямоугольных треугольниках"
             }
           },
           {
@@ -373,46 +486,46 @@
       }
     ]
   },
-  "active": "0b8c6b80b98e5085",
+  "active": "9b4bec8f0a03e28f",
   "lastOpenFiles": [
-    "Apache Spark.md",
-    "Spark режимы.md",
-    "Spark Join.md",
-    "Noisy Neighbor.md",
-    "Data Engineering.md",
-    "Change Data Capture (CDC).md",
-    "Study.md",
+    "Pasted image 20251209112748.png",
+    "Pasted image 20251209112746.png",
+    "Pasted image 20251209111423.png",
+    "Pasted image 20251208181438.png",
+    "Pasted image 20251208181419.png",
+    "Катет.md",
+    "Отношения сторон в прямоугольных треугольниках.md",
+    "Гипотенуза прямоугольгого треугольника.md",
+    "Pasted image 20251208180836.png",
+    "Прямоугольные треугольники и тригонометрия.md",
+    "Тригонометрия.md",
+    "Math.md",
+    "Числа и элементарная математика.md",
+    "Степени и корни.md",
+    "Степень с натуральным показателем.md",
+    "Множества чисел.md",
+    "Натуральные числа.md",
+    "Подготовка к ЦТ.md",
     "_main.md",
+    "Apache Spark.md",
+    "НОД.md",
+    "Взаимно простые числа.md",
+    "Простые числа.md",
+    "Числа.md",
     "2025-12-02.md",
-    "2025-12-04.md",
-    "[B1] [Unit 4] [Grammar] Comparative degrees.md",
-    "Pasted image 20251204125407.png",
+    "Liquid Clustering.md",
+    "Templates/Note template.md",
+    "English.md",
     "Buisenes English.md",
+    "[B1] [Unit 4] [Grammar] Comparative degrees.md",
     "Планировщик Airflow.md",
-    "Pasted image 20251204122811.md",
+    "Pasted image 20251204125407.png",
     "Pasted image 20251204123015.png",
     "Pasted image 20251204123011.png",
     "Pasted image 20251204122811.png",
     "Pasted image 20251204121213.png",
-    "Pasted image 20251204121155.png",
-    "Pasted image 20251204115706.png",
-    "Pasted image 20251204114919.png",
-    "Pasted image 20251204114858.png",
-    "Pasted image 20251204114107.png",
-    "English.md",
-    "Apache Airflow.md",
-    "DAG.md",
-    "Веб-сервер Airflow.md",
-    "Workers.md",
-    "AS-01.md",
-    "Templates/Spark template.md",
-    "Spark’s toolkit.md",
-    "Untitled.md",
-    "Flashcards.md",
     "3000_Essential_English_Words_with_examples_sound_and_images.apkg",
     "Untitled 3.canvas",
-    "Принципы Zettelkasten.md",
-    "Zettelkasten.md",
     "Untitled 2.canvas",
     "Excalidraw",
     "Untitled 1.canvas",
