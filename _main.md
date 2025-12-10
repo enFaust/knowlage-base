@@ -1,5 +1,4 @@
 
 [[Study]]
 [[Daily]]
-
 [[Math]]

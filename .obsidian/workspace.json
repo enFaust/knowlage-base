@@ -218,7 +218,7 @@
             }
           },
           {
-            "id": "945730f3fff5560f",
+            "id": "27a2d584bc8bbf47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -232,7 +232,21 @@
             }
           },
           {
-            "id": "9b4bec8f0a03e28f",
+            "id": "2cb919e07b05419c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Прямоугольные треугольники и тригонометрия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Прямоугольные треугольники и тригонометрия"
+            }
+          },
+          {
+            "id": "524cf759f811511b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -246,49 +260,105 @@
             }
           },
           {
-            "id": "05ba5ea9fe0cdd8d",
+            "id": "9dd1270dd0239ec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Степени и корни.md",
+                "file": "_main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Степени и корни"
+              "title": "_main"
             }
           },
           {
-            "id": "a59527a444d333c2",
+            "id": "45259512553804e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Степень с натуральным показателем.md",
+                "file": "Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Степень с натуральным показателем"
+              "title": "Study"
             }
           },
           {
-            "id": "26b194aa93654b0e",
+            "id": "849f242133394b33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Множества чисел.md",
+                "file": "English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Множества чисел"
+              "title": "English"
+            }
+          },
+          {
+            "id": "65cb74eff4e1f040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dictionary"
+            }
+          },
+          {
+            "id": "796e58838e092e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English"
+            }
+          },
+          {
+            "id": "5faaac98dc740b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dictionary"
+            }
+          },
+          {
+            "id": "945730f3fff5560f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тригонометрия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тригонометрия"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -333,8 +403,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "955caaf12cc90bf5",
@@ -350,7 +419,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Отношения сторон в прямоугольных треугольниках.md",
+                "file": "Тригонометрия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +429,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Отношения сторон в прямоугольных треугольниках"
+              "title": "Backlinks for Тригонометрия"
             }
           },
           {
@@ -369,12 +438,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Отношения сторон в прямоугольных треугольниках.md",
+                "file": "Тригонометрия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Отношения сторон в прямоугольных треугольниках"
+              "title": "Outgoing links from Тригонометрия"
             }
           },
           {
@@ -398,13 +467,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Отношения сторон в прямоугольных треугольниках.md",
+                "file": "Тригонометрия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Отношения сторон в прямоугольных треугольниках"
+              "title": "Outline of Тригонометрия"
             }
           },
           {
@@ -486,44 +555,45 @@
       }
     ]
   },
-  "active": "9b4bec8f0a03e28f",
+  "active": "0b8c6b80b98e5085",
   "lastOpenFiles": [
+    "Business English Vocabulary.md",
+    "Dictionary.md",
+    "English.md",
+    "Study.md",
+    "_main.md",
+    "Math.md",
+    "Business English.md",
+    "Class 1. B1 Talking about your job abroad.md",
+    "Числа.md",
+    "SOH-CAH-TOA.md",
+    "Отношения сторон в прямоугольных треугольниках.md",
+    "Прямоугольные треугольники и тригонометрия.md",
+    "Тригонометрия.md",
+    "Подготовка к ЦТ.md",
+    "Множества чисел.md",
+    "Степень с натуральным показателем.md",
+    "Степени и корни.md",
+    "B1 Unit 4 Grammar Comparative degrees.md",
+    "BE A2+/B1 Unit 6 Vocabulary Business.md",
+    "Pasted image 20251209124614.png",
+    "Pasted image 20251209124605.png",
+    "Pasted image 20251209122452.png",
+    "Pasted image 20251209122442.png",
+    "BE A2+",
     "Pasted image 20251209112748.png",
     "Pasted image 20251209112746.png",
     "Pasted image 20251209111423.png",
     "Pasted image 20251208181438.png",
     "Pasted image 20251208181419.png",
     "Катет.md",
-    "Отношения сторон в прямоугольных треугольниках.md",
     "Гипотенуза прямоугольгого треугольника.md",
     "Pasted image 20251208180836.png",
-    "Прямоугольные треугольники и тригонометрия.md",
-    "Тригонометрия.md",
-    "Math.md",
     "Числа и элементарная математика.md",
-    "Степени и корни.md",
-    "Степень с натуральным показателем.md",
-    "Множества чисел.md",
     "Натуральные числа.md",
-    "Подготовка к ЦТ.md",
-    "_main.md",
     "Apache Spark.md",
     "НОД.md",
     "Взаимно простые числа.md",
-    "Простые числа.md",
-    "Числа.md",
-    "2025-12-02.md",
-    "Liquid Clustering.md",
-    "Templates/Note template.md",
-    "English.md",
-    "Buisenes English.md",
-    "[B1] [Unit 4] [Grammar] Comparative degrees.md",
-    "Планировщик Airflow.md",
-    "Pasted image 20251204125407.png",
-    "Pasted image 20251204123015.png",
-    "Pasted image 20251204123011.png",
-    "Pasted image 20251204122811.png",
-    "Pasted image 20251204121213.png",
     "3000_Essential_English_Words_with_examples_sound_and_images.apkg",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
@@ -536,7 +606,6 @@
     "05 - Заметки",
     "Sources",
     "02 - Индексы",
-    "01 - Метки",
-    "00 - Сырые заметки"
+    "01 - Метки"
   ]
 }
